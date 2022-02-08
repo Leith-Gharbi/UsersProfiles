@@ -1,0 +1,8 @@
+1) clone project from git url https://github.com/Leith-Gharbi/UsersProfiles.git
+
+2) in frontEnd App 
+ -a) run with command line (:> npm insall )
+ -b) run (:> npm start )
+
+3) in backend app 
+  a) run (:> dotnet run )
